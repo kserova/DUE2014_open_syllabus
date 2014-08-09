@@ -4,7 +4,7 @@
 
 ## Scraping
 
-..* scraperwiki.com
-..* kimonolabs.org
++ scraperwiki.com
++ kimonolabs.org
 
 
