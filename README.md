@@ -1,4 +1,4 @@
-Urban informatics open syllabus
+Городская информатика, открытая программа (I семестр)
 =====================
 ###Kats Philipp, Ekaterina Serova
 
