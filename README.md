@@ -3,7 +3,7 @@ Urban informatics, open syllabus (I semenster)
 ###Kats Philipp, Ekaterina Serova
 
 open syllabus of UI course 2014/15 in ITMO, Saint-Petersburg
-**2 credits**
+(**2 credits**)
 
  - **11-12 октября** - Введение в Urban Informatics (Филипп Кац, Екатерина Серова)
  - **18-19 октября** - Дата-Экспедиция (Филипп Кац, Ирина Радченко)
