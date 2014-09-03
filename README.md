@@ -18,16 +18,16 @@ open syllabus of UI course 2014/15 in ITMO, Saint-Petersburg
 
 ###предварительный список курсов-Воркшопов
 
-- Введение в UI (Филипп Кац, Екатерина Серова)
-- Дата-Экспедиция (Филипп Кац, Ирина Радченко)
-- "Статистика"/базовые подходы к работе с данными (Екатерина Серова, Вадим Смахтин)
-- Введение в программирование I, (Филипп Кац)
-- Введение в программирование II, (Филипп Кац)
-- Визуализация данных (Филипп Кац, Екатерина Серова)
-- Генеративный урбанизм (Данияр Юсупов, Эдуард Хайман)
-- Интерактивный дизайн (Эдуард Хайман, Вадим Смахтин)
+- [Введение в UI (Филипп Кац, Екатерина Серова)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/1_Introduction)
+- [Дата-Экспедиция (Филипп Кац, Ирина Радченко)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/2_Data_Expedition)
+- ["Статистика"/базовые подходы к работе с данными (Екатерина Серова, Вадим Смахтин)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/9_%20Statistics_and_Analysis)
+- [Введение в программирование I, (Филипп Кац)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/4_programming_Grasshopper)
+- [Введение в программирование II, (Филипп Кац)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/6_programming2_Grasshopper)
+- [Визуализация данных (Филипп Кац, Екатерина Серова)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/7_data_Visualisation)
+- [Генеративный урбанизм (Данияр Юсупов, Эдуард Хайман)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/5_Generative_Urbanism)
+- [Интерактивный дизайн (Эдуард Хайман, Вадим Смахтин)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/8_Interactive%20Design)
 - "Футурология" (Филипп Кац, Екатерина Серова)
-- Обработка и анализ данных (Филипп Кац, Екатерина Серова)
+- [Обработка и анализ данных (Филипп Кац, Екатерина Серова)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/3_Data_processing)
 - ГИС, картография
 - Курсовой проект
 - 
