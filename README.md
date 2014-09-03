@@ -1,6 +1,7 @@
 Urban informatics open syllabus
 =====================
-###Kats Philipp, Ekaterina Serova
+##Official course page
+
 
 open syllabus of UI course 2014/15 in ITMO, Saint-Petersburg
 **2 credits**
@@ -29,3 +30,5 @@ open syllabus of UI course 2014/15 in ITMO, Saint-Petersburg
 - Обработка и анализ данных (Филипп Кац, Екатерина Серова)
 - ГИС, картография
 - Курсовой проект
+- 
+##Ресурсы
