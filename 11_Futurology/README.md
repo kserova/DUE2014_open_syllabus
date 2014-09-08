@@ -28,7 +28,7 @@
 ###Упражнения и задания на дом:
 
 ###Дополнительные материалы:
-	[- Список литературы](https://github.com/Casyfill/DUE2014_open_syllabus/blob/master/11_Futurology/%20Reader.md) 
+	- [Список литературы](https://github.com/Casyfill/DUE2014_open_syllabus/blob/master/11_Futurology/%20Reader.md) 
 
 ###Результаты обучения:
 	- Знакомство с футуристическими урбанистическими концепциями
