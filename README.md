@@ -1,6 +1,6 @@
 Urban informatics open syllabus
 =====================
-##[Official course page](http://urbaninformatics2014.tilda.ws/)
+####[Official course page](http://urbaninformatics2014.tilda.ws/)
 
 
 
