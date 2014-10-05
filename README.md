@@ -1,8 +1,6 @@
 Urban informatics open syllabus
 =====================
-####[Official course page](http://urbaninformatics2014.tilda.ws/)
-
-
+##Official course page
 
 
 open syllabus of UI course 2014/15 in ITMO, Saint-Petersburg
