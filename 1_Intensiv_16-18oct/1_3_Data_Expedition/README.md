@@ -12,6 +12,7 @@ Data_Expedition
 2. Скачать и установить бесплатный клиент GitHub ([Mac](https://mac.github.com/), [PC](https://windows.github.com/))
 3. Установить [Open Refine](http://openrefine.org/)
 4. Установить [Tilemill](https://www.mapbox.com/tilemill/)
+5. Установить [Sublime Text 3](http://www.sublimetext.com/3)
 5. Просмотреть урок по Tilemill [отсюда](https://github.com/Casyfill/Columbia_workshop)
 
 
@@ -45,3 +46,11 @@ to be added
 ###Задание для самостоятельной работы
 
 В рамках договоренности по-этапно вносить в групповой репозиторий данные и отчеты.
+
+###Дополнительные ресурсы
+
+- [Урок по Tilemill](https://github.com/Casyfill/Columbia_workshop)
+- [Видео-уроки по OpenRefine](http://www.youtube.com/channel/UCqwSVsJ8CWD9pQUZDbJC1ew)
+- [хитрости Sublime (Бесплатный сэмпл книги)](https://app.box.com/s/ku2vwit3lf0x7a8jk3nn)
+
+
