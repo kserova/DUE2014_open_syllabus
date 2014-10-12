@@ -11,3 +11,6 @@ R - один из основных и наиболее известных язы
 2. Поставить [Rstudio](http://www.rstudio.com/)
 3. Поставить [Swirl](http://swirlstats.com/) (учебнbr по R внутри R)
 4. пройти первые 2 урока Swirl (Basic_Building_Blocks, Sequences_of_Numbers). 
+
+
+[Набор видео с инструкциями по установке R и RStudio](https://app.box.com/s/0gunx342om4cq2ym9b25)
