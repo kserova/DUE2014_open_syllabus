@@ -8,7 +8,7 @@ Data_Expedition
 Занятие займет весь день, будет разделено на две основные части с часовым перерывом В ходе занятия между студентами будут распределены темы исследования для самостоятельной работы по группам.
 
 ###Подготовка к занятию
-1. Зарегестрироваться в сетb GitHub
+1. [Зарегестрироваться в сети GitHub](https://github.com/Casyfill/DUE2014_open_syllabus/blob/master/1_Intensiv_16-18oct/1_3_Data_Expedition/GitHub_guide.md)
 2. Скачать и установить бесплатный клиент ([Mac](https://mac.github.com/), [PC](https://windows.github.com/))
 3. Установить [Open Refine](http://openrefine.org/)
 4. дополнится в течении дня
