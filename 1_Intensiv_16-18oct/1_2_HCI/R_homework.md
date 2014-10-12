@@ -10,4 +10,4 @@ R - один из основных и наиболее известных язы
 1. Поставить [R](http://www.r-project.org/)
 2. Поставить [Rstudio](http://www.rstudio.com/)
 3. Поставить [Swirl](http://swirlstats.com/) (учебнbr по R внутри R)
-4. пройти первые 2 урока Swirl. 
+4. пройти первые 2 урока Swirl (Basic_Building_Blocks, Sequences_of_Numbers). 
