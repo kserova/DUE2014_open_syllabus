@@ -8,7 +8,7 @@ open syllabus of UI course 2014/15 in ITMO, Saint-Petersburg
 
  - **11-12 октября** - Введение в Urban Informatics (Филипп Кац, Екатерина Серова)
  - **16 октября** - [Введение, обсуждение литературы (Екатерина Серова)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/1_Intensiv_16-18oct/1_1_Intro)
- - **17 октября** - (Уточняется)
+ - **17 октября** - [Задание для самостоятельного изучения](https://github.com/Casyfill/DUE2014_open_syllabus/blob/master/1_Intensiv_16-18oct/1_2_HCI/R_homework.md), [Лекция Анны Холиной "Визуальная культура"](https://github.com/Casyfill/DUE2014_open_syllabus/blob/master/1_Intensiv_16-18oct/1_2_HCI/README.md)
  - **18 октября** - [Дата-Экспедиция (Филипп Кац, Ирина Радченко)](https://github.com/Casyfill/DUE2014_open_syllabus/tree/master/1_Intensiv_16-18oct/1_3_Data_Expedition)
  - **26 октября - 2 ноября** - Самостоятельная работы (Дата-экспедиция)
  - **3 - 8 ноября** - Воркшоп
