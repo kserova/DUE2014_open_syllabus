@@ -6,27 +6,32 @@ Reader
 ###I. Манифесты "Пророков"	
 
  1. Город как территория, сеть, процесс. Подходы Доксиадиса, Фуллера и МакЛюэна	Wigley M. Network fever //Grey Room. – 2001. – №. 04. – С. 82-122.	
+ 
  2. Город будущего: взгляды К.Доксиадиса	Doxiadis C. A. Ecumenopolis: tomorrow's city //Britannica Book of the Year 1968. – 1968. – С. 16-38.
+ 
  3. McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.
- 	- Понимание медиа: трансформации, главы 7-21		
-	- Понимание медиа: трансформации, главы 22-32	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 33-40	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 41-47	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 48-55	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 20-22	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 23-25	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 26-28	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 29-30	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 32-33	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.
-	 
-4. Я++
-	- глава 9. пространство пост-оседлости
-	- глава 2. Соединяющие создания
-5. Adam Greenfield. Everyware
-	- section 1	
-	- section 2
-6. liev Manovich. Software takes control, cтр. 1-29	
+	 	- Понимание медиа: трансформации, главы 7-21		
+	 	- Понимание медиа: трансформации, главы 22-32
+	 	- Понимание медиа: трансформации, главы 33-40
+	 	- Понимание медиа: трансформации, главы 41-47
+	 	- Понимание медиа: трансформации, главы 48-55
+	 	- Понимание медиа: трансформации, главы 20-22
+	 	- Понимание медиа: трансформации, главы 23-25
+	 	- Понимание медиа: трансформации, главы 26-28
+	 	- Понимание медиа: трансформации, главы 29-30
+	 	- Понимание медиа: трансформации, главы 32-33
+	 	
+ 4. Я++
+	 	-  глава 9. пространство Пост-оседлости
+	 	-  глава 2. Соединяющие создания
 
+ 5. Adam Greenfield. Everyware
+	 	-  section 1	
+	 	-  section 2
+	 	
+ 6. Liev Manovich. Software takes control, cтр. 1-29	
+	 	-  глава 9. пространство пост-оседлости
+	 	- глава 2. Соединяющие создания
 
 ###II. Города будущего; новый взгляд на город	
 
@@ -54,7 +59,4 @@ Reader
 9. Digital Cities	
 10. Ownership in the Hybrid City	стр 7-20
 11. Geography of twitter network 
-12. Другие статьи по технологиям в городах, например на Google Scholar, по проектам NYU CUSP, UCL CASA, MIT SENSEable City Lab	"искать например тут:
-	- http://www.bartlett.ucl.ac.uk/casa/research
-	- http://cusp.nyu.edu/
-	- http://senseable.mit.edu/
+12. Другие статьи по технологиям в городах, например на Google Scholar, по проектам [NYU CUSP](http://cusp.nyu.edu/), [UCL CASA](http://www.bartlett.ucl.ac.uk/casa/research), [MIT SENSEable City Lab](http://senseable.mit.edu/):
