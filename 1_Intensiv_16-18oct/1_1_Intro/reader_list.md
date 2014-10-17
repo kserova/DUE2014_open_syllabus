@@ -17,10 +17,10 @@ Reader
 	- Понимание медиа: трансформации, главы 23-25	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
 	- Понимание медиа: трансформации, главы 26-28	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
 	- Понимание медиа: трансформации, главы 29-30	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	- Понимание медиа: трансформации, главы 32-33	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.	
-	
+	- Понимание медиа: трансформации, главы 32-33	McLuhan M. Understanding media: The extensions of man. – MIT press, 1994.
+	 
 4. Я++
-	- глава 9. пространство Пост-оседлости
+	- глава 9. пространство пост-оседлости
 	- глава 2. Соединяющие создания
 5. Adam Greenfield. Everyware
 	- section 1	
